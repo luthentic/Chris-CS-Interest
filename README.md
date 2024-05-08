@@ -3,7 +3,7 @@
 My personal on going study project about CS World!
 
 <p align="center">
-  <img src = "https://miro.medium.com/max/2728/1*7I6oONv2fGLQJcNEFA4QSw.png" width=800 height=300>
+  <img src = "https://www.kaufmancounty.net/ImageRepository/Document?documentId=5911" width=800 height=300>
 </p>
 
 ## 🚩 Table of Contents
