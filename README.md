@@ -7,13 +7,17 @@ My personal on going study project about CS World!
 </p>
 
 ## 🚩 Table of Contents
-
+- [Lazy Initialization](#lazy-initialization)
 - [Team Roles](#team-roles)
 - [System Design](#system-design)
 - [Design Patterns](#design-patterns)
 - [System Design](#system-design)
 
 ***
+
+## Lazy Initilization:
+  - https://stackoverflow.com/questions/978759/what-is-lazy-initialization-and-why-is-it-useful
+  - https://learn.microsoft.com/en-us/dotnet/framework/performance/lazy-initialization
 
 ## Team Roles
 
