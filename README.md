@@ -21,6 +21,8 @@ My personal on going study project about CS World!
   - https://learn.microsoft.com/en-us/dotnet/framework/performance/lazy-initialization
 
 ## Thread Safety:
+  - https://www.c-sharpcorner.com/UploadFile/1c8574/thread-safety369/
+  - 
 
 ## Team Roles:
 
