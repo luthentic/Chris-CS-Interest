@@ -11,6 +11,7 @@ My personal on going study project about CS World!
  2. [Thread Safety](#thread-safety)
  3. [Team Roles](#team-roles)
  4. [Procedural vs OOP vs Functional](procedural-vs-OOP-vs-Functional)
+ 5. [HTTP Status Codes](http-status-codes)
 
 ---
 
@@ -27,4 +28,8 @@ My personal on going study project about CS World!
 ## OOP vs Functional vs Procedural
 - https://www.youtube.com/watch?v=B5O52_w-4Zg
 - https://www.youtube.com/watch?v=hvDTweQJWRg
+
+## HTTP Status Codes
+- https://iampravo.medium.com/a-comprehensive-guide-to-http-status-codes-for-backend-engineers-4b4e8fade153#:~:text=They%20are%20grouped%20into%20five%20classes%2C%20based%20on,needs%20to%20be%20taken%20to%20complete%20the%20request.
+
 
