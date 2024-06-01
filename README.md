@@ -1,19 +1,41 @@
-## 🚀 Introduction
-
-My personal on going study project about CS World!
-
 <p align="center">
   <img src = "https://www.kaufmancounty.net/ImageRepository/Document?documentId=5911" width=800 height=300>
 </p>
 
 ## 🚩 Table of Contents
- 1. [Lazy Initialization](#lazy-initialization)
- 2. [Thread Safety](#thread-safety)
- 3. [Team Roles](#team-roles)
- 4. [Procedural vs OOP vs Functional](procedural-vs-OOP-vs-Functional)
- 5. [HTTP Status Codes](http-status-codes)
+ 1. [Client Server Communication](#client-server-communication)
+ 2. [API Protocols](#api-protocols)
+ 3. [Lazy Initialization](#lazy-initialization)
+ 4. [Thread Safety](#thread-safety)
+ 5. [Team Roles](#team-roles)
+ 6. [Procedural vs OOP vs Functional](procedural-vs-OOP-vs-Functional)
+ 7. [HTTP Status Codes](http-status-codes)
 
 ---
+
+## Client Server Communication:
+  ### Client Server Communication:
+  - https://medium.com/must-know-computer-science/system-design-client-server-communication-674818ca448d
+  
+  ### why not to use websocket for login server:
+  - https://medium.com/codex/websocket-vs-http-communication-protocols-bec60bb815cb
+
+ 
+  - WebSocket - built in to browsers (no library needed)
+  - ws - a node package to emulate the WebSocket support for browsers but for node and usually used as a server (though it can do both)
+  - Socket.io - a custom protocol/library on top of WebSockets for browsers and node (must be used both on client and server)
+
+---
+
+## API Protocols:
+
+### API Protocols:
+  - https://stoplight.io/api-types
+### When to use REST API over the others:
+  - https://www.quora.com/What-is-the-advantage-of-using-a-RESTful-API-over-other-types-of-APIs-such-as-SOAP-or-JSON-RPC
+### When to use REST API over the others:
+  - https://blog.postman.com/soap-vs-rest/
+
 
 ## Lazy Initialization:
   - https://stackoverflow.com/questions/978759/what-is-lazy-initialization-and-why-is-it-useful
