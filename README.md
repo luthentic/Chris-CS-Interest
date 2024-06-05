@@ -3,15 +3,21 @@
 </p>
 
 ## 🚩 Table of Contents
- 1. [Client Server Communication](#client-server-communication)
- 2. [API Protocols](#api-protocols)
- 3. [Lazy Initialization](#lazy-initialization)
- 4. [Thread Safety](#thread-safety)
- 5. [Team Roles](#team-roles)
- 6. [Procedural vs OOP vs Functional](procedural-vs-OOP-vs-Functional)
- 7. [HTTP Status Codes](http-status-codes)
+ 1. [Language Types](#language-types)
+ 2. [Client Server Communication](#client-server-communication)
+ 3. [API Protocols](#api-protocols)
+ 4. [Lazy Initialization](#lazy-initialization)
+ 5. [Thread Safety](#thread-safety)
+ 6. [Team Roles](#team-roles)
+ 7. [Procedural vs OOP vs Functional](procedural-vs-OOP-vs-Functional)
+ 8. [HTTP Status Codes](http-status-codes)
 
 ---
+
+## Language Types:
+
+### Procedural vs Object Oriented vs Functional Language 
+
 
 ## Client Server Communication:
   ### Client Server Communication:
