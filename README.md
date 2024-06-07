@@ -11,6 +11,7 @@
  6. [Team Roles](#team-roles)
  7. [Procedural vs OOP vs Functional](procedural-vs-OOP-vs-Functional)
  8. [HTTP Status Codes](http-status-codes)
+ 9. [Microservices](#microservices)
 
 ---
 
@@ -53,11 +54,15 @@
 ## Team Roles:
   - https://alcor-bpo.com/10-key-roles-in-a-software-development-team-who-is-responsible-for-what/
 
-## OOP vs Functional vs Procedural
+## OOP vs Functional vs Procedural:
 - https://www.youtube.com/watch?v=B5O52_w-4Zg
 - https://www.youtube.com/watch?v=hvDTweQJWRg
 
-## HTTP Status Codes
+## HTTP Status Codes:
 - https://iampravo.medium.com/a-comprehensive-guide-to-http-status-codes-for-backend-engineers-4b4e8fade153#:~:text=They%20are%20grouped%20into%20five%20classes%2C%20based%20on,needs%20to%20be%20taken%20to%20complete%20the%20request.
+
+## Microservices:
+- https://aws.amazon.com/microservices/
+
 
 
