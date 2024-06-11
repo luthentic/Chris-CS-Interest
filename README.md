@@ -13,6 +13,7 @@
  8. [HTTP Status Codes](http-status-codes)
  9. [Microservices](#microservices)
  10. [NOS](#nos)
+ 11. [Load Runner](#load-runner)
 
 ---
 
@@ -64,6 +65,13 @@
 
 ## Microservices:
 - https://aws.amazon.com/microservices/
+- https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices
+
+## NOS:
+
+
+## Load Runner:
+
 
 
 
